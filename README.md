@@ -1,4 +1,4 @@
-# Cache-Side-Channel-Attacks
+# SPECache
 
 This repository contains a demo of a side channel attack that can be used to extract sensitive information from a target system. The attack is based on analyzing power consumption variations in the target system to infer information about its internal state.
 
